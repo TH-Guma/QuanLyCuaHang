@@ -1,0 +1,2 @@
+# QuanLyCuaHang
+OOP (C++)
